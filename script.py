@@ -13,7 +13,7 @@ st.title(" 📅 WEATHER FORECASTER 🌥️ ☔ ")
 
 col1, mid, col2 = st.beta_columns([80, 5, 140])
 with col1:
-    st.write('## 📌 ️MADE By Aman toppo')
+    st.write('## 📌 ️MADE By Aman ')
 with col2:
     st.image('india.jpg', width=50)
 
