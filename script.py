@@ -17,9 +17,9 @@ with col1:
 with col2:
     st.image('india.jpg', width=50)
 
-st.markdown("### [GITHUB](https://github.com/ColonelAVP) | [INSTAGRAM](https://www.instagram.com/athervvpatil/) | ["
-            "TWITTER](https://twitter.com/ColonelAVP_) | [LINKEDIN]("
-            "https://www.linkedin.com/in/atherv-patil-4a86691b1/)")
+st.markdown("### [GITHUB](https://github.com/avelon1A) | [INSTAGRAM](https://instagram.com/itz_aman_toppo?igshid=YmMyMTA2M2Y=) | ["
+            "TWITTER](https://twitter.com/AmanToppo11?t=yldFU4jp2LoS2QghtpZT-g&s=09) | [LINKEDIN]("
+            "https://www.linkedin.com/in/aman-toppo-320917214)")
 st.header("🌐 Enter the name of City and Select Temperature Unit")
 place = st.text_input("NAME OF THE CITY 🌆 ", " ")
 unit = st.selectbox(" SELECT TEMPERATURE UNIT 🌡 ", ("Celsius", "Fahrenheit"))
